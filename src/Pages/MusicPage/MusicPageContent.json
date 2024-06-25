@@ -1,0 +1,17 @@
+{
+	"header":{
+		"title": "My Music"
+	},
+	"content":[
+		{
+			"title": "Beastie",
+			"path": "src/Media/Music/Beastie.aif",
+			"description": "Based on Sonic Unleashed"
+		},
+		{
+			"title": "Ready to Rumble", 
+			"path": "src/Media/Music/Rumble.aif",
+			"description": "Based on a game concept"
+		}
+	]
+}
