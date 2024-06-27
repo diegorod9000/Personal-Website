@@ -5,12 +5,12 @@
 	"content":[
 		{
 			"title": "Beastie",
-			"path": "./../../Media/Music/Beastie.aif",
+			"path": "/Music/Beastie.mp3",
 			"description": "Based on Sonic Unleashed"
 		},
 		{
 			"title": "Ready to Rumble", 
-			"path": "./../../Music/Rumble.aif",
+			"path": "/Music/Rumble.mp3",
 			"description": "Based on a game concept"
 		}
 	]
